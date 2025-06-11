@@ -24,3 +24,9 @@ Coming to the central file that joins everything together, the interface, sample
 As a footnote, summarize.py is an unnecessary file that generates a "movie_summary.txt" file that highlights key data details like total number of movies present in the dataset, the timespan covered, etc and insights like most common genre, movie with the longest/shortest runtime, highest/lowest rated movie of all time and all that sort of information. This file does not contribute to sample.py.
 
 Note that all of the information given is only limited to the dataset we downloaded and we do not claim to show data including all of the movies that were ever released, thank you.
+
+![Streamlit Screenshot 1](output/ss1.png)
+![Streamlit Screenshot 2](output/ss2.png)
+![Streamlit Screenshot 3](output/ss3.png)
+![Streamlit Screenshot 4](output/ss4.png)
+![Streamlit Screenshot 5](output/ss5.png)
