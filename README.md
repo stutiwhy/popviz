@@ -25,8 +25,14 @@ As a footnote, summarize.py is an unnecessary file that generates a "movie_summa
 
 Note that all of the information given is only limited to the dataset we downloaded and we do not claim to show data including all of the movies that were ever released, thank you.
 
+Output screenshots:
+
 ![Streamlit Screenshot 1](output/ss1.png)
+
 ![Streamlit Screenshot 2](output/ss2.png)
+
 ![Streamlit Screenshot 3](output/ss3.png)
+
 ![Streamlit Screenshot 4](output/ss4.png)
+
 ![Streamlit Screenshot 5](output/ss5.png)
